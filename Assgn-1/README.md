@@ -6,3 +6,4 @@ is tweaked a little bit - Read [here](www.hongliangjie.com/wp-content/uploads/20
 * For notes on Maximum Likelihood Estimation for Logistic Regression, an in-depth explanation is - [here](http://sites.stat.psu.edu/~jiali/course/stat597e/notes2/logit.pdf).
 * Trick for solving Problem 3 on Gaussian Discrimant Analysis, think in terms of Indicator Random Variables. The labels here are {1, -1}. In this case formula is ![this] (https://github.com/sudk1896/CS229-Notes/blob/master/Assgn-1/CodeCogsEqn.gif).
 * The final likelihood equation for Problem 3 in terms of given paramters (when n=1) ![is] (https://github.com/sudk1896/CS229-Notes/blob/master/Assgn-1/FinalLikelihoodEquation.png).
+* Differentiating the likelihood wrt to the parameters gives the answer, pretty straightforward, no suprised or tricks required.
