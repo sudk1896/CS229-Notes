@@ -9,3 +9,4 @@ is tweaked a little bit - Read [here](www.hongliangjie.com/wp-content/uploads/20
 * The cost function J wrt theta for the quasar regression problem ![is] (https://github.com/sudk1896/CS229-Notes/blob/master/Assgn-1/Normal_eqn_with_W.png)
 * The wrong way to take the trace derivative ![is] (https://github.com/sudk1896/CS229-Notes/blob/master/Assgn-1/wrong_trace_derivative.png) and
 the right way to take the trace derivative ![is] (https://github.com/sudk1896/CS229-Notes/blob/master/Assgn-1/correct_trace_derivative.png).
+* For the sub-problem (b) for the quasar problem, my answer was pretty close to the one given in the key, when you round off its the exact same answer and is bound to occur because of floating point calculations. The code in ```Python``` is ![here] (https://github.com/sudk1896/CS229-Notes/blob/master/Assgn-1/quasar.py) and the regression line and raw data points are ![here] (https://github.com/sudk1896/CS229-Notes/blob/master/Assgn-1/figure_1-1.png).
