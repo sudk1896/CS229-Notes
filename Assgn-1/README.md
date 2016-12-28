@@ -8,3 +8,5 @@ is tweaked a little bit - Read [here](www.hongliangjie.com/wp-content/uploads/20
 * The final likelihood equation for Problem 3 in terms of given paramters (when n=1) ![is] (https://github.com/sudk1896/CS229-Notes/blob/master/Assgn-1/FinalLikelihoodEquation.png).
 * Differentiating the likelihood wrt to the parameters gives the answer, pretty straightforward, no suprised or tricks required.
 * The cost function J wrt theta for the quasar regression problem ![is] (https://github.com/sudk1896/CS229-Notes/blob/master/Assgn-1/Normal_eqn_with_W.png)
+* The wrong way to take the trace derivative ![is] (https://github.com/sudk1896/CS229-Notes/blob/master/Assgn-1/wrong_trace_derivative.png) and
+the right way to take the trace derivativei s ![is] (https://github.com/sudk1896/CS229-Notes/blob/master/Assgn-1/wrong_trace_derivative.png).
