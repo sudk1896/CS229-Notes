@@ -7,3 +7,4 @@ is tweaked a little bit - Read [here](www.hongliangjie.com/wp-content/uploads/20
 * Trick for solving Problem 3 on Gaussian Discrimant Analysis, think in terms of Indicator Random Variables. The labels here are {1, -1}. In this case formula is ![this] (https://github.com/sudk1896/CS229-Notes/blob/master/Assgn-1/CodeCogsEqn.gif).
 * The final likelihood equation for Problem 3 in terms of given paramters (when n=1) ![is] (https://github.com/sudk1896/CS229-Notes/blob/master/Assgn-1/FinalLikelihoodEquation.png).
 * Differentiating the likelihood wrt to the parameters gives the answer, pretty straightforward, no suprised or tricks required.
+* The cost function J wrt theta for the quasar regression problem ![is] (https://github.com/sudk1896/CS229-Notes/blob/master/Assgn-1/Normal_eqn_with_W.png)
